@@ -1,6 +1,13 @@
 
 # HealthDatabase
 
+# Project Number: 1
+# Project Title: HealthDatabase
+# Code Version: 1.0
+# Written by: Mosia Marate
+# Date: 2021-09-30
+
+
 """
 HealthDatabase Project
 
@@ -149,3 +156,5 @@ else:
 # 2. Ethical Considerations: Ensure data privacy and obtain patient consent for using medical data.
 # 3. Interpretability: Consider using models like Random Forest that offer interpretability to understand and trust predictions.
 # 4. Deployment: Deploy the model in a user-friendly interface, such as a web app, for healthcare professionals to use in practice.
+
+# End of HealthDatabase.py
